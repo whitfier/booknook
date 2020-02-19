@@ -3,7 +3,7 @@ title: Shop Online
 date: 2020-02-20T00:00:00.000Z
 permalink: /shop/index.html
 eleventyNavigation:
-  key: Contact
+  key: Shop
   order: 2
 ---
 If you are looking for new books, we have select titles in the store in Saugatuck, and thousands of titles available online at this Bookshop link.
