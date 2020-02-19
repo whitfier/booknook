@@ -6,6 +6,7 @@ eleventyNavigation:
   key: Home
   order: 0
 ---
+
 # The Book Nook of Saugatuck
 
 ## 439 Butler Street

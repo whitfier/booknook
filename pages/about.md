@@ -6,6 +6,7 @@ eleventyNavigation:
   key: About
   order: 1
 ---
+
 ![Cheryl](/static/img/cheryl.webp "Cheryl")
 
 Hi, I'm Cheryl Whitfield. Welcome to The Book Nook of Saugatuck! As a school librarian I've had a lifelong dream of owning a bookstore. In May 2018, that dream came true when I purchased a used bookstore in Saugatuck, MI.
