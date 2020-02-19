@@ -6,12 +6,13 @@ eleventyNavigation:
   key: Home
   order: 0
 ---
-
 # The Book Nook of Saugatuck
 
-## 439 Butler Street
+![Storefront](/static/img/storefront.webp "Storefront")
 
-## Saugatuck, Michigan 49453
+### 439 Butler Street
+
+### Saugatuck, Michigan 49453
 
 Visit us on Facebook for current hours
 
