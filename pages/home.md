@@ -1,20 +1,17 @@
 ---
-layout: layouts/home.njk
 title: Home
-date: 2016-01-01T00:00:00.000Z
+date: 2020-02-20T00:00:00.000Z
 permalink: /
 eleventyNavigation:
   key: Home
   order: 0
 ---
-# Welcome
+# The Book Nook of Saugatuck
 
-This is a template for building a simple blog website with the [Eleventy static site generator](https://www.11ty.io), with deployment to [Netlify](https://www.netlify.com).
+## 439 Butler Street
 
-Includes [Netlify CMS](https://www.netlifycms.org) for WYSIWYG content editing, and [Netlify Forms](https://www.netlify.com/docs/form-handling) for processing your site's form data.
+## Saugatuck, Michigan 49453
 
-For more info on installation and usage, view the [project repo]({{ pkg.repository.url }}) on GitHub.
+Visit us on Facebook for current hours
 
-Or click the button below to deploy your own copy of this project to Netlify.
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/danurbanowicz/eleventy-netlify-boilerplate&stack=cms)
+[![Facebook logo](/static/img/facebook_logo.webp "Visit us on Facebook")](https://www.facebook.com/The-Book-Nook-of-Saugatuck-419340528530635/)
