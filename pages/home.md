@@ -14,4 +14,4 @@ eleventyNavigation:
 
 Visit us on Facebook for current hours
 
-[![Facebook logo](/static/img/facebook_logo.webp "Visit us on Facebook")](https://www.facebook.com/The-Book-Nook-of-Saugatuck-419340528530635/)
+[![Facebook logo](https://static.wixstatic.com/media/e316f544f9094143b9eac01f1f19e697.png/v1/fill/w_78,h_78,al_c,q_85,usm_0.66_1.00_0.01/e316f544f9094143b9eac01f1f19e697.webp "Visit us on Facebook")](https://www.facebook.com/The-Book-Nook-of-Saugatuck-419340528530635/)
